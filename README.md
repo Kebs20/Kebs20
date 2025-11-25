@@ -8,9 +8,7 @@ I mainly work on creating immersive and story-driven **BetonQuest** quests, but 
 ---
 
 ## 🔮 What I Do
-| Header | Header |
-|--------|--------|
-| Cell   | Cell   |
+
 ### 📘 BetonQuest
 - Complex questlines  
 - Custom objectives and events  
@@ -35,7 +33,10 @@ I mainly work on creating immersive and story-driven **BetonQuest** quests, but 
 - Expand my pixel art portfolio
   
 ---
-## 
+## Portfolio
+| Header                 |   Header |
+|------------------------|------------------------|
+| Cell   | Cell   |
 ---
 
 ## 📫 Contact

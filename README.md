@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hey, I'm Kebs
 
-<!--
-**Kebs20/Kebs20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Minecraft Content Creator • Quest Designer • Pixel Artist
 
-Here are some ideas to get you started:
+Welcome to my GitHub!  
+I mainly work on creating immersive and story-driven **BetonQuest** quests, but I also enjoy making **pixel art** and crafting **simple MythicMobs configurations**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔮 What I Do
+
+### 📘 BetonQuest
+- Complex questlines  
+- Custom objectives and events  
+- Dialogue-heavy story content  
+- RPG-style systems and mechanics  
+- Server-friendly, optimized scripts
+- MythicMobs configs that are part of the Quest like NPCs or Mobs behaviour
+
+### 🎨 Pixel Art
+- Icons and small sprites  
+- Configurations for plugins and resource packs 
+
+### 🐉 MythicMobs
+- Simple mob configurations  
+- Basic skills, drops, and behavior logic  
+- Lightweight, easy-to-edit files  
+
+---
+
+## 🎯 Goals
+- Build high-quality quest packs and tools for server owners  
+- Expand my pixel art portfolio  
+
+---
+
+## 📫 Contact
+Feel free to reach out if you want to collaborate or need help with your quests or configs on my Discord: "kebs_"
+

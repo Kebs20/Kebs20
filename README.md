@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Kebs
 
-### 🛠️ Minecraft Content Creator • Quest Designer • Pixel Artist
+### 🛠️ • Minecraft Quest Designer • Pixel Artist • Configurator
 
 Welcome to my GitHub!  
 I mainly work on creating immersive and story-driven **BetonQuest** quests, but I also enjoy making **pixel art** and crafting **simple MythicMobs configurations**.

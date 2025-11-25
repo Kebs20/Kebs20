@@ -8,6 +8,9 @@ I mainly work on creating immersive and story-driven **BetonQuest** quests, but 
 ---
 
 ## 🔮 What I Do
+```markdown
+Your text here
+```
 
 ### 📘 BetonQuest
 - Complex questlines  
@@ -30,8 +33,10 @@ I mainly work on creating immersive and story-driven **BetonQuest** quests, but 
 
 ## 🎯 Goals
 - Build high-quality quest packs and tools for server owners  
-- Expand my pixel art portfolio  
-
+- Expand my pixel art portfolio
+  
+---
+## 
 ---
 
 ## 📫 Contact

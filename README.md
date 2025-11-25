@@ -40,8 +40,3 @@ Feel free to reach out if you want to collaborate or need help with your quests 
 |--------|--------|
 | [![YouTube Video Title](https://cdn.discordapp.com/attachments/986665123248742433/1443006747915849969/image.png?ex=69278042&is=69262ec2&hm=480599c5d18c43896e8cb885f6e9630f8ca98a656481886a479518fae393c658&)]([https://www.youtube.com/watch?v=Hnc4t1a688I](https://www.youtube.com/watch?v=WZy1VRjCm4I&list=PLnsu7ESje8azf_CKgM17ZUAeC4UBivEt8))   | ⬅ CLICKABLE <br><br>Fantasy type of Quest. <br><br>Few puzzles in it, used MythicMobs, Textures!   |
 
----
-
-## 📫 Contact
-Feel free to reach out if you want to collaborate or need help with your quests or configs on my Discord: "kebs_"
-

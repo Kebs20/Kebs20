@@ -36,7 +36,7 @@ I mainly work on creating immersive and story-driven **BetonQuest** quests, but 
 ## Portfolio
 | Link | Description |
 |--------|--------|
-| https://www.youtube.com/watch?v=Hnc4t1a688I   | Quest made for Halloween. Used MythicMobs, Voicelines and Models!   |
+| https://www.youtube.com/watch?v=Hnc4t1a688I   | Quest made for Halloween. <br>Used MythicMobs, Voicelines and Models!   |
 ---
 
 ## 📫 Contact

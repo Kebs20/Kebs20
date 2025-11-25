@@ -8,9 +8,7 @@ I mainly work on creating immersive and story-driven **BetonQuest** quests, but 
 ---
 
 ## 🔮 What I Do
-```markdown
-Your text here
-```
+> This is a blockquote box.
 
 ### 📘 BetonQuest
 - Complex questlines  

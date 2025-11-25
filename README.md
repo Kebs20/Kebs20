@@ -36,9 +36,7 @@ I mainly work on creating immersive and story-driven **BetonQuest** quests, but 
 ## Portfolio
 | Link | Description |
 |--------|--------|
-| ![Logo](<img width="320" height="180" alt="image" src="https://github.com/user-attachments/assets/15463c30-36af-48c3-a6a8-445f0ee03894" />
-
-)   | Quest made for Halloween. Used MythicMobs, Voicelines and Models!   |
+| ![Logo](<img width="320" height="180" alt="image" src="https://github.com/user-attachments/assets/15463c30-36af-48c3-a6a8-445f0ee03894" />)   | Quest made for Halloween. Used MythicMobs, Voicelines and Models!   |
 |--------|--------|
 | ![Logo](http://example.com/image.png)   | Quest made for Halloween. Used MythicMobs, Voicelines and Models!   |
 

@@ -28,11 +28,11 @@ I mainly work on creating immersive and story-driven **BetonQuest** quests, but 
 
 ---
 
-## 🎯 Goals
-- Build high-quality quest packs and tools for server owners  
-- Expand my pixel art portfolio
-  
+## 📫 Contact
+Feel free to reach out if you want to collaborate or need help with your quests or configs on my Discord: "kebs_" 
+
 ---
+
 ## 🗂️ Portfolio
 | Preview | Description |
 |--------|--------|

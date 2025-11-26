@@ -1,4 +1,4 @@
-<img width="1294" height="147" alt="image" src="https://github.com/user-attachments/assets/5b0eadb1-ce4f-4703-beda-540ff72cc359" /># 👋 Hey, I'm Kebs
+## 👋 Hey, I'm Kebs
 
 ### 🛠️ • Minecraft Quest Designer • Pixel Artist • Configurator
 

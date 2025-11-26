@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Kebs
+<img width="1294" height="147" alt="image" src="https://github.com/user-attachments/assets/5b0eadb1-ce4f-4703-beda-540ff72cc359" /># 👋 Hey, I'm Kebs
 
 ### 🛠️ • Minecraft Quest Designer • Pixel Artist • Configurator
 
@@ -43,4 +43,8 @@ Feel free to reach out if you want to collaborate or need help with your quests 
 | [![YouTube Video Title](https://cdn.discordapp.com/attachments/986665123248742433/1443037227230826536/Immagine_2025-11-26_013221.png?ex=69279ca5&is=69264b25&hm=a8f44d4af1152bb2e2909f3c38c950dc636782d98c767d2319dc7522f9aebca8&)]([https://www.youtube.com/watch?v=Pk__QOPdG4U)    | ⬅ CLICKABLE <br><br>Bartender System. <br><br>used MythicMobs, Textures!   |
 |--------|--------|
 | ![My Pixel Art](https://cdn.discordapp.com/attachments/986665123248742433/1443051429790220359/Royal_Set_Presentation.png?ex=6927a9df&is=6926585f&hm=9b8d825e3b99e774664a952fbea6116b5648a88c4ce5e8c3a8cd266e079309a2&)    | Royal Set. <br><br>16x16 Textures!   |
+|--------|--------|
+| ![My Pixel Art](https://cdn.discordapp.com/attachments/1442296731198033991/1442931307528192081/d6d104e3-8a59-4362-abdd-5ebbf2c69c45.png?ex=69273a00&is=6925e880&hm=8ec8852eb6e101bfa1ea4b71680de4e53c0b3ce820b2ad8de124f5aec705b4f7&)    | Dungeon Swords. <br><br>16x16 Textures!   |
+|--------|--------|
+| ![My Pixel Art](https://media.discordapp.net/attachments/1442296731198033991/1442297279464865812/image.png?ex=6926e5c4&is=69259444&hm=7a51ef07e9d34a0343d90422cc9c40561124cf0813277f2bb36fdf73e36bec45&=&format=webp&quality=lossless&width=928&height=105)    | Great Lance Vanilla Set. <br><br>16x16 Textures!   |
 

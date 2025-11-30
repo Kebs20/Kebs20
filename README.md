@@ -40,7 +40,9 @@ Feel free to reach out if you want to collaborate or need help with your quests 
 |--------|--------|
 | [![YouTube Video Title](https://cdn.discordapp.com/attachments/986665123248742433/1443006747915849969/image.png?ex=69278042&is=69262ec2&hm=480599c5d18c43896e8cb885f6e9630f8ca98a656481886a479518fae393c658&)](https://www.youtube.com/watch?v=WZy1VRjCm4I&list=PLnsu7ESje8azf_CKgM17ZUAeC4UBivEt8)   | ⬅ CLICKABLE <br><br>Fantasy type of Quest. <br><br>Few puzzles in it, used MythicMobs, Textures!   |
 |--------|--------|
-| [![YouTube Video Title](https://cdn.discordapp.com/attachments/986665123248742433/1443037227230826536/Immagine_2025-11-26_013221.png?ex=69279ca5&is=69264b25&hm=a8f44d4af1152bb2e2909f3c38c950dc636782d98c767d2319dc7522f9aebca8&)](https://www.youtube.com/watch?v=Pk__QOPdG4U)    | ⬅ CLICKABLE <br><br>Bartender System. <br><br>used MythicMobs, Textures!   |
+| [![YouTube Video Title](https://cdn.discordapp.com/attachments/986665123248742433/1443037227230826536/Immagine_2025-11-26_013221.png?ex=69279ca5&is=69264b25&hm=a8f44d4af1152bb2e2909f3c38c950dc636782d98c767d2319dc7522f9aebca8&)](https://www.youtube.com/watch?v=JaNPH5J9otI)    | ⬅ CLICKABLE <br><br>Bartender System. <br><br>used MythicMobs, Textures!   |
+|--------|--------|
+| [![YouTube Video Title](https://media.discordapp.net/attachments/986665123248742433/1444760971968123092/JaNPH5J9otI-HD.jpg?ex=692de202&is=692c9082&hm=182c356d65041843d2c0a743588cc79ea9a5bcbb50168cd53dfad9949b28e8a6&=&format=webp&width=1032&height=581)](https://www.youtube.com/watch?v=Pk__QOPdG4U)    | ⬅ CLICKABLE <br><br>Bells Of Balance. <br><br>used MythicMobs, TypeWriter (only cinematic) and Textures!   |
 |--------|--------|
 | ![My Pixel Art](https://cdn.discordapp.com/attachments/986665123248742433/1443051429790220359/Royal_Set_Presentation.png?ex=6927a9df&is=6926585f&hm=9b8d825e3b99e774664a952fbea6116b5648a88c4ce5e8c3a8cd266e079309a2&)    | Royal Set. <br><br>16x16 Textures!   |
 |--------|--------|

@@ -50,7 +50,7 @@ Feel free to reach out if you want to collaborate or need help with your quests 
 |--------|--------|
 | ![My Pixel Art](https://ibb.co/JFgHf3Nr)    | Royal Set. <br><br>16x16 Textures!   |
 |--------|--------|
-| ![My Pixel Art](https://ibb.co/Z1vcgVSq)    | Dungeon Swords. <br><br>16x16 Textures!   |
+| ![My Pixel Art](https://instasize.com/p/8a35cdbbeaadcf2dbf9c3c8eabb5f449117ef6be6050fc4f109f53004d212090)    | Dungeon Swords. <br><br>16x16 Textures!   |
 |--------|--------|
 | ![My Pixel Art](https://ibb.co/YVbb54X)    | Great Lance Vanilla Set. <br><br>16x16 Textures!   |
 

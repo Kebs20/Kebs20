@@ -36,21 +36,21 @@ Feel free to reach out if you want to collaborate or need help with your quests 
 ## 🗂️ Portfolio
 | Preview | Description |
 |--------|--------|
-| [![YouTube Video Title](https://cdn.discordapp.com/attachments/986665123248742433/1442999638717370379/maxresdefault.png?ex=692779a3&is=69262823&hm=b6c239fd0b2ccdcbff97259ea6599e3f1531427e8b8c294a1e8a5a9719141808&)](https://www.youtube.com/watch?v=Hnc4t1a688I) | ⬅ CLICKABLE <br><br>Quest made for Halloween. <br><br>Used BetonQuest, MythicMobs, Voicelines and Models!   |
+| [![YouTube Video Title](https://ibb.co/39qHsZDh)](https://www.youtube.com/watch?v=Hnc4t1a688I) | ⬅ CLICKABLE <br><br>Quest made for Halloween. <br><br>Used BetonQuest, MythicMobs, Voicelines and Models!   |
 |--------|--------|
-| [![YouTube Video Title](https://cdn.discordapp.com/attachments/986665123248742433/1442999638717370379/maxresdefault.png?ex=692779a3&is=69262823&hm=b6c239fd0b2ccdcbff97259ea6599e3f1531427e8b8c294a1e8a5a9719141808&)](https://www.youtube.com/watch?v=lXEeSM5D39Y&t=4s) | ⬅ CLICKABLE <br><br>Trials System. <br><br>Used BetonQuest, MythicMobs!   |
+| [![YouTube Video Title](https://ibb.co/0bz8St4)](https://www.youtube.com/watch?v=lXEeSM5D39Y&t=4s) | ⬅ CLICKABLE <br><br>Trials System. <br><br>Used BetonQuest, MythicMobs!   |
 |--------|--------|
-| [![YouTube Video Title](https://cdn.discordapp.com/attachments/986665123248742433/1443006747915849969/image.png?ex=69278042&is=69262ec2&hm=480599c5d18c43896e8cb885f6e9630f8ca98a656481886a479518fae393c658&)](https://www.youtube.com/watch?v=WZy1VRjCm4I&list=PLnsu7ESje8azf_CKgM17ZUAeC4UBivEt8)   | ⬅ CLICKABLE <br><br>Fantasy type of Quest. <br><br>Few puzzles in it, used BetonQuest, MythicMobs, Textures!   |
+| [![YouTube Video Title](https://ibb.co/B2B320KG)](https://www.youtube.com/watch?v=WZy1VRjCm4I&list=PLnsu7ESje8azf_CKgM17ZUAeC4UBivEt8)   | ⬅ CLICKABLE <br><br>Fantasy type of Quest. <br><br>Few puzzles in it, used BetonQuest, MythicMobs, Textures!   |
 |--------|--------|
-| [![YouTube Video Title](https://media.discordapp.net/attachments/986665123248742433/1445202588873261126/maxresdefault_2.jpg?ex=692f7d4b&is=692e2bcb&hm=e4931705cc5459a719ce3fb29ff8bcc3540e599ce823f4b12864b2377d6d6b98&=&format=webp&width=1032&height=581)](https://www.youtube.com/watch?v=JvPjuuJ8WfI)    | ⬅ CLICKABLE <br><br>Hungry Hope. <br><br>used BetonQuest, MythicMobs, TypeWriter (only cinematic) and Textures!   |
+| [![YouTube Video Title](https://ibb.co/21fjh5N1)](https://www.youtube.com/watch?v=JvPjuuJ8WfI)    | ⬅ CLICKABLE <br><br>Hungry Hope. <br><br>used BetonQuest, MythicMobs, TypeWriter (only cinematic) and Textures!   |
 |--------|--------|
-| [![YouTube Video Title](https://media.discordapp.net/attachments/986665123248742433/1444760971968123092/JaNPH5J9otI-HD.jpg?ex=692de202&is=692c9082&hm=182c356d65041843d2c0a743588cc79ea9a5bcbb50168cd53dfad9949b28e8a6&=&format=webp&width=1032&height=581)](https://www.youtube.com/watch?v=JaNPH5J9otI)    | ⬅ CLICKABLE <br><br>Bells Of Balance. <br><br>used BetonQuest, MythicMobs, TypeWriter (only cinematic) and Textures!   |
+| [![YouTube Video Title](https://ibb.co/SDcvLqx3)](https://www.youtube.com/watch?v=JaNPH5J9otI)    | ⬅ CLICKABLE <br><br>Bells Of Balance. <br><br>used BetonQuest, MythicMobs, TypeWriter (only cinematic) and Textures!   |
 |--------|--------|
-| [![YouTube Video Title](https://cdn.discordapp.com/attachments/986665123248742433/1443037227230826536/Immagine_2025-11-26_013221.png?ex=69279ca5&is=69264b25&hm=a8f44d4af1152bb2e2909f3c38c950dc636782d98c767d2319dc7522f9aebca8&)](https://www.youtube.com/watch?v=Pk__QOPdG4U)    | ⬅ CLICKABLE <br><br>Bartender System. <br><br>used BetonQuest, MythicMobs, Textures!   |
+| [![YouTube Video Title](https://ibb.co/J6njDdF)](https://www.youtube.com/watch?v=Pk__QOPdG4U)    | ⬅ CLICKABLE <br><br>Bartender System. <br><br>used BetonQuest, MythicMobs, Textures!   |
 |--------|--------|
-| ![My Pixel Art](https://cdn.discordapp.com/attachments/986665123248742433/1443051429790220359/Royal_Set_Presentation.png?ex=6927a9df&is=6926585f&hm=9b8d825e3b99e774664a952fbea6116b5648a88c4ce5e8c3a8cd266e079309a2&)    | Royal Set. <br><br>16x16 Textures!   |
+| ![My Pixel Art](https://ibb.co/JFgHf3Nr)    | Royal Set. <br><br>16x16 Textures!   |
 |--------|--------|
-| ![My Pixel Art](https://cdn.discordapp.com/attachments/1442296731198033991/1442931307528192081/d6d104e3-8a59-4362-abdd-5ebbf2c69c45.png?ex=69273a00&is=6925e880&hm=8ec8852eb6e101bfa1ea4b71680de4e53c0b3ce820b2ad8de124f5aec705b4f7&)    | Dungeon Swords. <br><br>16x16 Textures!   |
+| ![My Pixel Art](https://ibb.co/Z1vcgVSq)    | Dungeon Swords. <br><br>16x16 Textures!   |
 |--------|--------|
-| ![My Pixel Art](https://media.discordapp.net/attachments/986665123248742433/1443052480958304296/image.png?ex=6927aada&is=6926595a&hm=7bb7fa1b1a938d34d3674c36eb5157cff2d337b70cc41eb29ec0d78672b64270&=&format=webp&quality=lossless)    | Great Lance Vanilla Set. <br><br>16x16 Textures!   |
+| ![My Pixel Art](https://ibb.co/YVbb54X)    | Great Lance Vanilla Set. <br><br>16x16 Textures!   |
 

@@ -28,6 +28,10 @@ I mainly work on creating immersive and story-driven **BetonQuest** quests, but 
 
 ---
 
+## ⚠️ Terms
+Payment is taken upfront. 
+Refunds are possible only before the writing or implementation starts—once work is underway, refunds may not be available.
+
 ## 📫 Contact
 Feel free to reach out if you want to collaborate or need help with your quests or configs on my Discord: "kebs_" 
 

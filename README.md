@@ -29,7 +29,7 @@ I mainly work on creating immersive and story-driven **BetonQuest** quests, but 
 ---
 
 ## ⚠️  Payment and Such
-Payment is taken upfront. 
+Payment is taken upfront. (compromises possible) 
 Refunds are possible only before the writing or implementation starts—once work is underway, refunds may not be available.
 
 ## 📫 Contact

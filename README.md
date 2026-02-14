@@ -42,7 +42,7 @@ Feel free to reach out if you want to collaborate or need help with your quests 
 |--------|--------|
 | [![YouTube Video Title](https://files.catbox.moe/54na3l.webp)](https://www.youtube.com/watch?v=Hnc4t1a688I) | ⬅ CLICKABLE <br><br>Quest made for Halloween. <br><br>Used BetonQuest, MythicMobs, Voicelines and Models!   |
 |--------|--------|
-| [![YouTube Video Title](https://files.catbox.moe/pii49w.webp)](https://www.youtube.com/watch?v=lXEeSM5D39Y&t=4s) | ⬅ CLICKABLE <br><br>Trials System. <br><br>Used BetonQuest, MythicMobs!   |
+| [![YouTube Video Title](https://files.catbox.moe/7n81x2.jpg)](https://www.youtube.com/watch?v=lXEeSM5D39Y&t=4s) | ⬅ CLICKABLE <br><br>Trials System. <br><br>Used BetonQuest, MythicMobs!   |
 |--------|--------|
 | [![YouTube Video Title](https://files.catbox.moe/c1lbqm.webp)](https://www.youtube.com/watch?v=WZy1VRjCm4I&list=PLnsu7ESje8azf_CKgM17ZUAeC4UBivEt8)   | ⬅ CLICKABLE <br><br>Fantasy type of Quest. <br><br>Few puzzles in it, used BetonQuest, MythicMobs, Textures!   |
 |--------|--------|

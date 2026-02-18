@@ -52,6 +52,8 @@ Feel free to reach out if you want to collaborate or need help with your quests 
 |--------|--------|
 | [![YouTube Video Title](https://files.catbox.moe/aigz59.webp)](https://www.youtube.com/watch?v=Pk__QOPdG4U)    | ⬅ CLICKABLE <br><br>Bartender System. <br><br>used BetonQuest, MythicMobs, Textures!   |
 |--------|--------|
+| ![My Pixel Art](https://files.catbox.moe/kks9it.png)    | Ribbits NPC Icons!   |
+|--------|--------|
 | ![My Pixel Art](https://files.catbox.moe/29719b.png)    | Royal Set. <br><br>16x16 Textures!   |
 |--------|--------|
 | ![My Pixel Art](https://files.catbox.moe/knztav.png)    | Dungeon Swords. <br><br>16x16 Textures!   |

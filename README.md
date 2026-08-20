@@ -39,8 +39,8 @@ Feel free to reach out if you want to collaborate or need help with your quests 
 
 ## 🗂️ Portfolio
 | Preview | Description |
-|--------|--------|https://youtu.be/rJ5l4q_AeIc
-| [![YouTube Video Title]](https://www.youtube.com/watch?v=Hnc4t1a688I) | ⬅ CLICKABLE <br><br>Party System (First Ever). <br><br>Used BetonQuest, PAPI, Textures!   |
+|--------|--------|
+| [![YouTube Video Title]](https://youtu.be/rJ5l4q_AeIc) | ⬅ CLICKABLE <br><br>Party System (First Ever). <br><br>Used BetonQuest, PAPI, Textures!   |
 |--------|--------|
 | [![YouTube Video Title](https://files.catbox.moe/54na3l.webp)](https://www.youtube.com/watch?v=Hnc4t1a688I) | ⬅ CLICKABLE <br><br>Quest made for Halloween. <br><br>Used BetonQuest, MythicMobs, Voicelines and Models!   |
 |--------|--------|

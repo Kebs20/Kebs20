@@ -56,7 +56,7 @@ Feel free to reach out if you want to collaborate or need help with your quests 
 |--------|--------|
 | [![YouTube Video Title](https://files.catbox.moe/aigz59.webp)](https://www.youtube.com/watch?v=Pk__QOPdG4U)    | ⬅ CLICKABLE <br><br>Bartender System. <br><br>used BetonQuest, MythicMobs, Textures!   |
 |--------|--------|
-| ![My Render Art](https://files.catbox.moe/cum8et.png)    | Render of KPEA!   |
+| ![My Render Art](https://files.catbox.moe/he7zmq.png)    | Render of KPEA!   |
 |--------|--------|
 | ![My Render Art](https://files.catbox.moe/3j6cw6.png)    | Render of BackRooms Pack (KPEA)!   |
 |--------|--------|

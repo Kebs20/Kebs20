@@ -66,6 +66,8 @@ Feel free to reach out if you want to collaborate or need help with your quests 
 |--------|--------|
 | ![My Render Art](https://files.catbox.moe/3j6cw6.png)    | Render of BackRooms Pack (KPEA)!   |
 |--------|--------|
+| [![YouTube Video Title](https://files.catbox.moe/d2xk1r.jpg)](https://www.youtube.com/watch?v=v-MmFAYq254)    | ⬅ CLICKABLE <br><br>JoJo Edit. <br><br>used Mods!   |
+|--------|--------|
 | ![My Pixel Art](https://files.catbox.moe/kks9it.png)    | Ribbits NPC Icons!   |
 |--------|--------|
 | ![My Pixel Art](https://files.catbox.moe/29719b.png)    | Royal Set. <br><br>16x16 Textures!   |

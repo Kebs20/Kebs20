@@ -24,7 +24,13 @@ I mainly work on creating immersive and story-driven **BetonQuest** quests, but 
 ### 🐉 MythicMobs
 - Simple mob configurations  
 - Basic skills, drops, and behavior logic  
-- Lightweight, easy-to-edit files  
+- Lightweight, easy-to-edit files
+
+### 🌌​ Renders
+- High quality Renders made with Blender
+
+### 📹​​ InGame Cinematics
+- Cinematics recorded in game and modified to become like a small movie/trailer
 
 ---
 

@@ -70,7 +70,7 @@ Feel free to reach out if you want to collaborate or need help with your quests 
 |--------|--------|
 | ![My Pixel Art](https://files.catbox.moe/kks9it.png)    | Ribbits NPC Icons!   |
 |--------|--------|
-| ![My Pixel Art](https://files.catbox.moe/0lqplx.png)    | Ranks for Cobblemon Server!   |
+| ![My Pixel Art](https://files.catbox.moe/oyvqrk.png)    | Ranks for Cobblemon Server!   |
 |--------|--------|
 | ![My Pixel Art](https://files.catbox.moe/29719b.png)    | Royal Set. <br><br>16x16 Textures!   |
 |--------|--------|

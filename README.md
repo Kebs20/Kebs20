@@ -26,6 +26,9 @@ I mainly work on creating immersive and story-driven **BetonQuest** quests, but 
 - Basic skills, drops, and behavior logic  
 - Lightweight, easy-to-edit files
 
+### ⚙️ Plugin Configs
+- I can make high quality configs of any Plugin you want
+
 ### 🌌​ Renders
 - High quality Renders made with Blender
 

@@ -66,6 +66,8 @@ Feel free to reach out if you want to collaborate or need help with your quests 
 |--------|--------|
 | ![My Render Art](https://files.catbox.moe/3j6cw6.png)    | Render of BackRooms Pack (KPEA)!   |
 |--------|--------|
+| [![YouTube Video Title](https://cdn.discordapp.com/attachments/986665123248742433/1567726011582259271/minekart.jpg?ex=6aed3a20&is=6aebe8a0&hm=88e72fd8d1226588426556f970cd15cd8c91751ab667bec2b4ba68d02fbe1eaf&)](https://www.youtube.com/watch?v=m2wZsjSR9is)    | ⬅ CLICKABLE <br><br>MineKart Teaser. <br><br>used plugins to make everything shown in the video!   |
+|--------|--------|
 | [![YouTube Video Title](https://files.catbox.moe/d2xk1r.jpg)](https://www.youtube.com/watch?v=v-MmFAYq254)    | ⬅ CLICKABLE <br><br>JoJo Edit. <br><br>used Mods!   |
 |--------|--------|
 | ![My Pixel Art](https://files.catbox.moe/kks9it.png)    | Ribbits NPC Icons!   |
